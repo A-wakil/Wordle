@@ -1,0 +1,18 @@
+.box{
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    height: 35px;
+    width: 35px;
+    border: 2px solid grey;
+    margin: 5px;
+}
+
+.boxes{
+    margin-left: 50px;
+    display: flex;
+}
+
+/* input {
+    display: none;
+} */
